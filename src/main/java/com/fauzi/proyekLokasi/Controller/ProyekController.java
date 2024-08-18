@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author USER
  */
 @RestController
-@RequestMapping("/api/proyek")
+@RequestMapping("/proyek")
 public class ProyekController {
 
     @Autowired

@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author USER
  */
 @RestController
-@RequestMapping("/api/lokasi")
+@RequestMapping("/lokasi")
 public class LokasiController {
 
     @Autowired
